@@ -40,6 +40,8 @@ Hyderabad its is there in Telangana **Husen Sagar, Ramoji City are around it**Pe
  ### pithy quotes
 
 >Never let the fear of striking out keep you from playing the game.   -*Babe Ruth*
+
+
 >Money and success don’t change people; they merely amplify what is already there.   -*Will Smith*
 
 
