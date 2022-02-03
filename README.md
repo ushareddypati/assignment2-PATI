@@ -12,3 +12,13 @@ Hyderabad its is there in Telangana **Husen Sagar, Ramoji City are around it**Pe
 3. Go right from the airport for 20kms
 4. we will reach paradise signal
 5. for right its paradise hotel to eat biryani
+
+* Food Items
+* Main Menu
+    * Biryani
+    * curries
+    * Meals
+* Starters
+    * chiken lolipop
+    * chiken popcorn
+    * chiken drumsticks
