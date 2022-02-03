@@ -4,5 +4,5 @@ I am Usha.I am interested to Learn new aspects daily.I came from India.<br>In th
 
 below is my image.
 
-[Mypic](usha.jpg)
+[Mypic](https://github.com/ushareddypati/assignment2-PATI/blob/main/usha.jpg)
 
