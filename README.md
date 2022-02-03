@@ -24,15 +24,15 @@ Hyderabad its is there in Telangana **Husen Sagar, Ramoji City are around it**Pe
     * chiken drumsticks
 
  **[AboutMe Link](AboutMe.md)**
- 
- ***
+
+   ***
     ### Sports
     The table consists of details of 4 sports which I would like to recommed. It includes Sport name, location of sport and amount to be paid for the equipment
 
-    | Name | Location | Amount |
-    | -----| ---------| -------|
-    |Volleyball| London| $10|
-    |Basketball| USA| $20|
-    |Golf| Europe| $30|
-    |Cricket| India| $40|
+   |name|location|amount|
+   |----|--------|------|
+   |football|UAE|$20|
+   |vollyball|hyderabad|$210|
+   |trowball|khammam|$250|
+   |cricket|USA|$20|
 
